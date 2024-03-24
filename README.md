@@ -1,7 +1,7 @@
 # Form_Robot_browser
 Automatizando preenchimento de formulário com robot framework
 # Validando preenhimento de formulário
-Primeiro cenário constitui na automação do preenchimento de todos campos obrigatórios, realizando validação de de cadastro realizado com sucesso por meio da captura da mensagem fornecida pelo do Alerta após submeter o formulário, segundo cenário é realizada validação sem o prennchimento de nenhum campo é exibido alerta de "preencha os campos obrigatórios" e robot realiza essa validação, foi utilizada a biblioteca Browser que é a mesma biblioteca do playwright um framework também que vem crescendo bastante no mercado.
+Primeiro cenário constitui na automação do preenchimento de todos campos obrigatórios, realizando validação de cadastro realizado com sucesso por meio da captura da mensagem fornecida pelo do Alerta após submeter o formulário, segundo cenário é realizada validação sem o prennchimento de nenhum campo com isso é exibido alerta de "preencha os campos obrigatórios" e com robot realizo essa validação, foi utilizada a biblioteca Browser que é a mesma biblioteca do playwright um framework também que vem crescendo bastante no mercado, e o formulário utilizado nos testes eu criei para aprimorar mais ainda minhas habilidades com a ferramenta.
 
 ## Pré-requisitos
 
