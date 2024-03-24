@@ -19,11 +19,16 @@ Sinta-se à vontade para contribuir com melhorias e novos casos de teste!
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter o Python e o Robot Framework instalados em sua máquina. Você também precisará instalar a biblioteca global necessária para este projeto.
+Antes de começar, certifique-se de ter o Python e o Robot Framework instalados em sua máquina. Você também precisará instalar a biblioteca Bronwser necessária para este projeto:
 
-Copy code:
-  
-    pip install -r requirements.txt
+## Instalação
+
+Somente Python 3.8 ou mais recente é compatível. Do lado do nó, as versões 18 e 20 LTS são suportadas.
+
+- Instale o node.js, por exemplo, em ``https://nodejs.org/en/download``
+- Atualize o ``pip pip install -U pip``  para garantir que a versão mais recente seja usada
+- Instale o robotframework-browser a partir da linha de comando:``pip install robotframework-browser``
+- Instale as dependências do nó: execute ``rfbrowser init``  em seu shell
     
 Navegue até o diretório do projeto:
     
