@@ -23,7 +23,7 @@ Antes de começar, certifique-se de ter o Python e o Robot Framework instalados 
 
 ## Instalação
 
-Somente Python 3.8 ou mais recente é compatível. Do lado do nó, as versões 18 e 20 LTS são suportadas.
+Somente Python 3.8 ou mais recente é compatível. Do lado DO node, as versões 18 e 20 LTS são suportadas.
 
 - Instale o node.js, por exemplo, em ``https://nodejs.org/en/download``
 - Atualize o ``pip pip install -U pip``  para garantir que a versão mais recente seja usada
